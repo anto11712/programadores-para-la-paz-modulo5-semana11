@@ -1,0 +1,13 @@
+Una plataforma tecnologica de participacion ciudadana necesita una base de datos para guardar de forma 
+permanente la informacion que los usuarios registran, como causas, reportes o apoyos. Sin base de datos, 
+toda la informacion se perderia al reiniciar el servidor, haciendo imposible el seguimiento de cualquier 
+proceso comunitario. La autenticacion de usuarios es igualmente esencial, porque permite controlar quien 
+puede acceder a ciertas funciones y evitar que personas no autorizadas alteren o eliminen informacion 
+importante. En procesos participativos, la identidad de los usuarios debe estar protegida para que las 
+personas puedan involucrarse sin temor a represalias o exposicion de sus datos. Proteger la informacion 
+sensible no es solo una buena practica tecnica, sino una obligacion etica hacia la comunidad que confia 
+en la plataforma. Una plataforma sin proteccion puede ser vulnerable a ataques que comprometan datos privados, 
+lo cual destruiria la confianza de los ciudadanos en el sistema. La combinacion de base de datos, autenticacion 
+y proteccion de datos crea un entorno confiable donde la participacion puede ocurrir de forma segura y 
+sostenida en el tiempo. En conclusion, estos tres elementos no son opcionales, sino la base tecnica y 
+etica sobre la que debe construirse cualquier herramienta digital orientada a la participacion ciudadana.

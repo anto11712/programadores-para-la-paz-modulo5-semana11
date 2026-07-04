@@ -1,0 +1,19 @@
+La interfaz de la plataforma comunitaria seria simple, clara y accesible para todo tipo de usuarios, 
+priorizando la facilidad de uso sobre el diseno complejo.
+
+Seccion 1 - Crear una causa:
+Habria un formulario con campos para ingresar el titulo, la descripcion y la fecha de la causa comunitaria. 
+Al enviar el formulario, la causa quedaria registrada en la base de datos y seria visible para 
+todos los usuarios.
+
+Seccion 2 - Lista de causas disponibles:
+Se mostraria una lista con todas las causas activas, incluyendo el titulo, la descripcion y la fecha de 
+creacion, para que los ciudadanos puedan informarse sobre cada iniciativa.
+
+Seccion 3 - Boton de apoyo y contador:
+Cada causa tendria un boton para apoyarla y un contador visible que muestre cuantas personas la han 
+respaldado hasta el momento, fomentando la participacion activa.
+
+Consideraciones de privacidad:
+La interfaz no mostraria datos personales de los usuarios que apoyaron una causa, solo el conteo total 
+de apoyos, protegiendo asi la privacidad de cada participante.
